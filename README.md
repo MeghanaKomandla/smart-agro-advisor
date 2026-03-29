@@ -87,17 +87,17 @@ Libraries	Pandas, NumPy, Pillow
 
 Tools	Git, GitHub, VS Code
 
-📸 Project Screenshots
+ Project Screenshots
 
-🏠 Home Page
+  Home Page
 
- Index page
+  Index page
  
-🔐 Login Page
+   Login Page
 
-🌱 Crop Recommendation Output
+  Crop Recommendation Output
 
-🐛 Pest Detection
+   Pest Detection
    Feed Back
    Geo-Tagging
 
@@ -111,11 +111,11 @@ pip install -r requirements.txt
 
 python app.py
 
-🌐 Run locally:
+ Run locally:
 
 http://127.0.0.1:5000
 
-🧠 System Design
+ System Design
 
 Modular architecture
 
@@ -127,7 +127,7 @@ JSON-based data storage
 
 Scalable for ML integration
 
-📈 Impact
+ Impact
 
 ✔ Enables data-driven farming decisions
 
@@ -137,25 +137,26 @@ Scalable for ML integration
 
 ✔ Accessible in low-resource environments
 
-🔮 Future Scope
+ Future Scope
 
-🤖 Machine Learning integration
+ Machine Learning integration
 
-☁️ Real-time weather API
+ Real-time weather API
 
-📱 Mobile application
+ Mobile application
 
-🌍 IoT-based smart farming
+ IoT-based smart farming
 
-🧠 Deep learning pest detection
+ Deep learning pest detection
 
-👩‍💻 About Me
+ About Me
 
 Komandla Meghana Reddy
-🎓 M.Tech – Artificial Intelligence & Data Science
+
+ M.Tech – Artificial Intelligence & Data Science
 
 🔗 GitHub: https://github.com/MeghanaKomandla
 
-📜 License
+ License
 
 Academic Project
