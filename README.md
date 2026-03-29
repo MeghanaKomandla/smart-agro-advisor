@@ -2,6 +2,7 @@
 🚀 AIML-Powered Crop Recommendation Platform
 
 Smart Agro Advisor is a lightweight, intelligent agricultural decision-support system that provides data-driven crop recommendations, pest awareness, and geo-spatial insights using rule-based logic and heuristic algorithms, designed to support sustainable farming in low-resource environments.
+
 🔗 Repository
 
 👉 https://github.com/MeghanaKomandla/smart-agro-advisor
@@ -32,11 +33,15 @@ Unlike traditional systems, it focuses on:
 Modern agriculture is facing critical challenges:
 
 🌦️ Unpredictable climate changes
+
 🌱 Declining soil health
+
 🐛 Increasing pest attacks
+
 💰 Market price fluctuations
 
 Most existing solutions are either:
+
 ❌ Too complex
 
 ❌ Require high infrastructure
@@ -71,10 +76,15 @@ Stores farmer inputs
 Helps improve recommendations
 
 🛠️ Tech Stack
+
 Category	Tools
+
 Backend	Python, Flask
+
 Frontend	HTML, CSS
+
 Libraries	Pandas, NumPy, Pillow
+
 Tools	Git, GitHub, VS Code
 
 📸 Project Screenshots
@@ -92,15 +102,18 @@ Tools	Git, GitHub, VS Code
    Geo-Tagging
 
 ⚙️ Installation
+
 git clone https://github.com/MeghanaKomandla/smart-agro-advisor.git
 cd smart-agro-advisor
 pip install -r requirements.txt
 python app.py
 
 🌐 Run locally:
+
 http://127.0.0.1:5000
 
 🧠 System Design
+
 Modular architecture
 Rule-based recommendation engine
 Geo-tagging logic
@@ -114,10 +127,15 @@ Scalable for ML integration
 ✔ Accessible in low-resource environments
 
 🔮 Future Scope
+
 🤖 Machine Learning integration
+
 ☁️ Real-time weather API
+
 📱 Mobile application
+
 🌍 IoT-based smart farming
+
 🧠 Deep learning pest detection
 
 👩‍💻 About Me
