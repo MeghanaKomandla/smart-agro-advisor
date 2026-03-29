@@ -153,8 +153,6 @@ Scalable for ML integration
 
 Komandla Meghana Reddy
 
- M.Tech – Artificial Intelligence & Data Science
-
 🔗 GitHub: https://github.com/MeghanaKomandla
 
  License
