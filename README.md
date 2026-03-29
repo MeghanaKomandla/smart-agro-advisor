@@ -104,8 +104,11 @@ Tools	Git, GitHub, VS Code
 ⚙️ Installation
 
 git clone https://github.com/MeghanaKomandla/smart-agro-advisor.git
+
 cd smart-agro-advisor
+
 pip install -r requirements.txt
+
 python app.py
 
 🌐 Run locally:
@@ -115,15 +118,23 @@ http://127.0.0.1:5000
 🧠 System Design
 
 Modular architecture
+
 Rule-based recommendation engine
+
 Geo-tagging logic
+
 JSON-based data storage
+
 Scalable for ML integration
 
 📈 Impact
+
 ✔ Enables data-driven farming decisions
+
 ✔ Reduces crop failure risks
+
 ✔ Promotes sustainable agriculture
+
 ✔ Accessible in low-resource environments
 
 🔮 Future Scope
