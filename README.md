@@ -13,8 +13,11 @@ Smart Agro Advisor is a web-based decision-support system that helps farmers mak
 The platform combines:
 
 📊 Soil data analysis
+
 🌦️ Seasonal patterns
+
 📍 Location-based insights
+
 💰 Market considerations
 
 to provide accurate and practical recommendations.
@@ -35,7 +38,9 @@ Modern agriculture is facing critical challenges:
 
 Most existing solutions are either:
 ❌ Too complex
+
 ❌ Require high infrastructure
+
 ❌ Not accessible to rural farmers
 
 👉 This project solves that by providing a simple, scalable, and intelligent alternative.
